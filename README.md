@@ -59,14 +59,6 @@ http://localhost:8080/swagger-ui/index.html#/
 
 ---
 
-## Swagger UI
-
----
-
-<img src="https://user-images.githubusercontent.com/101389007/232260859-f6df5574-20dd-45ba-b343-0ae18a1fac96.png">
-
----
-
 ### Login Controller
 
 ---
