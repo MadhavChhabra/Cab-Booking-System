@@ -33,7 +33,7 @@
 	* Booking Management Module
 
 ## Swagger Deployed link
-http://localhost:1995/swagger-ui/index.html#/
+http://localhost:8080/swagger-ui/index.html#/
 
 ### Sample API Response for User Login
 
