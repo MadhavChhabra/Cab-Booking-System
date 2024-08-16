@@ -20,7 +20,6 @@
 * Spring Data JPA
 * Hibernate
 * MySQL
-* Lombok
 * Swagger
 
 ## Modules:
